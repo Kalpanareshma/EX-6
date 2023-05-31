@@ -21,8 +21,8 @@ To write the python program for simulating ping command.
 
 ## PROGRAM :
 ## CLIENT PROGRAM :
-## Developed : AAKAASH V P
-## Reg no : 212220230001
+## Developed : Kalpana S
+## Reg no : 212222040069
 ```
 import socket
 from pythonping import ping
