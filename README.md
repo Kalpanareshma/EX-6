@@ -50,15 +50,9 @@ while True:
 
 ## OUTPUT :
 ## CLIENT OUTPUT :
-![EX-06 CLIENT](https://github.com/Kalpanareshma/EX-6/assets/122040453/d6345d3b-7d5c-4419-b832-b9036629940c)
+![ex06 client output](https://github.com/Kalpanareshma/EX-6/assets/122040453/c69a94cb-a87b-4518-8ef8-b8725a20b59a)
 ## SERVER OUTPUT :
-![EX-06 SERVER](https://github.com/Kalpanareshma/EX-6/assets/122040453/433230d4-7a99-47e1-b9fa-80d6c39986bb)
-
-
-
-
-
-
+![ex06 server output](https://github.com/Kalpanareshma/EX-6/assets/122040453/eb2c6282-2f5e-4a61-86a7-c6e8d379e11e)
 
 ## RESULT :
 Thus, the python program for simulating ping command was successfully executed.
